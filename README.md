@@ -4,11 +4,11 @@ Ejercicios
 
 ## Sugerencias para seguir practicando:
 
-* DPRK-aligned threat actor targeting cryptocurrency vertical with global hacking campaign: https://www.f-secure.com/en/press/p/dprk-aligned-threat-actor-targeting-cryptocurrency-vertical-with
-* IndigoDrop spreads via military-themed lures to deliver Cobalt Strike: https://blog.talosintelligence.com/2020/06/indigodrop-maldocs-cobalt-strike.html
-* PROMETHIUM extends global reach with StrongPity3 APT: https://blog.talosintelligence.com/2020/06/promethium-extends-with-strongpity3.html
-* Transparent Tribe: Evolution analysis, part 1: https://securelist.com/transparent-tribe-part-1/98127/
-* Transparent Tribe: Evolution analysis, part 2: https://securelist.com/transparent-tribe-part-2/98233/
+* [DPRK-aligned threat actor targeting cryptocurrency vertical with global hacking campaign](https://www.f-secure.com/en/press/p/dprk-aligned-threat-actor-targeting-cryptocurrency-vertical-with)
+* [IndigoDrop spreads via military-themed lures to deliver Cobalt Strike](https://blog.talosintelligence.com/2020/06/indigodrop-maldocs-cobalt-strike.html)
+* [PROMETHIUM extends global reach with StrongPity3 APT](https://blog.talosintelligence.com/2020/06/promethium-extends-with-strongpity3.html)
+* [Transparent Tribe: Evolution analysis, part 1](https://securelist.com/transparent-tribe-part-1/98127/)
+* [Transparent Tribe: Evolution analysis, part 2](https://securelist.com/transparent-tribe-part-2/98233/)
 
 ## Recursos:
 
