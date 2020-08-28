@@ -14,21 +14,21 @@ Ejercicios
 
 ### Online: 
 
-* [MITRE ATT&CK](attack.mitre.org)
-* [ATT&CK Navigator](mitre-attack.github.io/attack-navigator/enterprise )
-* [SecureList](securelist.com)
-* [FireEye](www.fireeye.com/blog/threat-research.html)
-* [Cisco Talos Intelligence](blog.talosintelligence.com )
-* [Clearsky Security](www.clearskysec.com/blog)
-* [We Live Security](www.welivesecurity.com )
-* [Your Bias Is](yourbias.is)
-* [Your Logical Fallacy](yourlogicalfallacyis.com)
-* [El Orden Mundial](elordenmundial.com )
-* [CIA Library](www.cia.gov/library )
-* [THAI CERT - Threat Actor Encyclopedia](thaicert.or.th/downloads/files/A_Threat_Actor_Encyclopedia.pdf )
-* [SANS](www.sans.org)
-* [Awesome Threat Intelligence](github.com/hslatman/awesome-threat-intelligence)
-* [Talos - Attribution Puzzle](blog.talosintelligence.com/2020/08/attribution-puzzle.html)
+* [MITRE ATT&CK](https://attack.mitre.org)
+* [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/enterprise )
+* [SecureList](https://securelist.com)
+* [FireEye](https://www.fireeye.com/blog/threat-research.html)
+* [Cisco Talos Intelligence](https://blog.talosintelligence.com )
+* [Clearsky Security](https://www.clearskysec.com/blog)
+* [We Live Security](https://www.welivesecurity.com )
+* [Your Bias Is](https://yourbias.is)
+* [Your Logical Fallacy](https://yourlogicalfallacyis.com)
+* [El Orden Mundial](https://elordenmundial.com )
+* [CIA Library](https://www.cia.gov/library )
+* [THAI CERT - Threat Actor Encyclopedia](https://thaicert.or.th/downloads/files/A_Threat_Actor_Encyclopedia.pdf )
+* [SANS](https://www.sans.org)
+* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+* [Talos - Attribution Puzzle](https://blog.talosintelligence.com/2020/08/attribution-puzzle.html)
 
 ### Libros:
 
